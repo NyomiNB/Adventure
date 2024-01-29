@@ -1,0 +1,2 @@
+- This is a choose-your-own adventure text-based java project with 11 endings!
+- This project was written over the course of about three months, and was primarily to improve familiarity with if/else statements
